@@ -24,8 +24,8 @@ export default PostItem;
 const styles = StyleSheet.create({
   container: {
     backgroundColor: '#fff',
-    borderRadius: 10,
-    paddingVertical: 12,
+    borderRadius: 14,
+    paddingVertical: 15,
     paddingHorizontal: 16,
     shadowColor: '#D9DADF',
     shadowOffset: {
